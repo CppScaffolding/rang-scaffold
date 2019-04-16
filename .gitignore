@@ -1,0 +1,4 @@
+## .gitignore file for rang-scaffold
+
+## ignore folder fetched through gclient
+rang
